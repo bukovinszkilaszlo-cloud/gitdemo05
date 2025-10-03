@@ -10,6 +10,6 @@ public class App
         System.out.println(a()+b());
     }
 
-    private static String a() {return "Hello, ";}
+    private static String a() {return "Szia, ";}
     private static String b() {return "World! ";}
 }
