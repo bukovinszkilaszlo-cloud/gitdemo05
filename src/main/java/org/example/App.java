@@ -11,5 +11,5 @@ public class App
     }
 
     private static String a() {return "Hello, ";}
-    private static String b() {return "World! ";}
+    private static String b() {return "világ! ";}
 }
